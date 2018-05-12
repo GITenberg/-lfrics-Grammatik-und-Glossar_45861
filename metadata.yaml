@@ -1,0 +1,42 @@
+_repo: -lfrics-Grammatik-und-Glossar_45861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aelfric, Abbot of Eynsham
+    aliases:
+    - Elfric, Abbot of Eynsham
+    - Elfrike, Abbot of Eynsham
+    - Aelfricus, Abbot of Eynsham
+    - Aelfrik, Abbot of Eynsham
+    gutenberg_agent_id: '39401'
+    url: http://www.gutenberg.org/2009/agents/39401
+    wikipedia: https://en.wikipedia.org/wiki/%C3%86lfric_of_Eynsham
+  editor:
+    agent_name: Zupitza, Julius
+    aliases:
+    - Zupitzka, J.
+    - Zupitza, J. (Julius)
+    birthdate: 1844
+    deathdate: 1895
+    gutenberg_agent_id: '43503'
+    url: http://www.gutenberg.org/2009/agents/43503
+    wikipedia: https://de.wikipedia.org/wiki/Julius_Zupitza
+description: ''
+gutenberg_issued: '2014-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45861'
+language:
+- ang
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Old English, ca. 450-1100 -- Grammar'
+- !lcc 'PE'
+title: Ælfrics Grammatik und Glossar
+url: http://www.gutenberg.org/ebooks/45861
