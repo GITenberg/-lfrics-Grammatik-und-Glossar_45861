@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43503
     wikipedia: https://de.wikipedia.org/wiki/Julius_Zupitza
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45861#-lfrics-Grammatik-und-Glossar
 gutenberg_issued: '2014-06-02'
 gutenberg_type: Text
 identifiers:
